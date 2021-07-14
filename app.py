@@ -54,4 +54,4 @@ elif option == 'Upload your own XRay':
 st.warning("NOTE: If you upload an Image which is not a Chest XRay, the model will give very wierd predictions because it's trained to identify which one of the 2 labels the model is most confident of.")
 
 
-st.write("Made with ❤ by Tanay Mehta")
+st.write("Project by Team: FeedForwardNN")
